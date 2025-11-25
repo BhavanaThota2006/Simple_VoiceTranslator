@@ -1,0 +1,7 @@
+speechrecognition
+deep-translator
+pyttsx3
+sounddevice
+scipy
+numpy
+pyaudio
